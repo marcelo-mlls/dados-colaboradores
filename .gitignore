@@ -1,0 +1,28 @@
+# Variáveis de ambiente
+*.env
+
+# env exemplo
+!.env.example
+
+# Dependências do Composer
+/vendor/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs, caches e arquivos temporários
+*.log
+*.tmp
+*.cache
+*.pid
+*.bak
+*.old
+
+# Arquivos de sessão (se houver)
+*.sess
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
